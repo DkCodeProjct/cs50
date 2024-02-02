@@ -1,5 +1,6 @@
 import inflect
 
+####-----> Learn how to read docs <-----####
 #put  .. instead EOFEror work as expected
 
 p = inflect.engine()
